@@ -8,6 +8,6 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 # Notes:
 The obvious requirement from this model is to have high precision i.e. whevener this model classify an image as pnematic then it should be highly confident about the prediction.
 
-Chest_x_ray.py : Script to train the convolution neural network based model to classify images.
+train.py : Script to train the convolution neural network based model to classify images.                      
 
-predict_pneumonia_chest_x_ray.ipynb : Jupyter notebook to test the model for a random image
+predict.ipynb : Jupyter notebook to test the model for a random image

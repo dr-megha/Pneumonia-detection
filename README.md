@@ -1,8 +1,11 @@
-Machine learning has a remarkable range of applications, including in health and diagnostics. This project aims to detect pneumonia from Chest X-Ray Images (Pneumonia) dataset. 
+# Pneumonia detection using CNN
+This project aims to detect pneumonia from Chest X-Ray Images.  
 
 # Data:
 Kaggle data set is used to train, validate and test the model:
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+
 
 # Notes:
 The obvious requirement from this model is to have high precision i.e. whevener this model classify the X-ray image as pneumonia, it should be highly confident about the prediction.
